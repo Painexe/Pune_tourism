@@ -1,4 +1,6 @@
 # Pune_tourism
+.csv file notations:
+
 0 - Historical
 1 - Cultural Heritage
 2 - Religious
